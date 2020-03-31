@@ -1,2 +1,6 @@
 clone demo
+<<<<<<< HEAD
 bbb
+=======
+aaa
+>>>>>>> aaa
