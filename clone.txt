@@ -1,6 +1,5 @@
 clone demo
-<<<<<<< HEAD
-bbb
-=======
-aaa
->>>>>>> aaa
+变基提交
+bb
+aa
+
